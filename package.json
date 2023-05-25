@@ -42,7 +42,9 @@
     "http-status": "^1.5.0",
     "node-dependency-injection": "^2.7.1",
     "nunjucks": "^3.2.3",
+    "pg": "^8.11.0",
     "ts-node": "^10.9.1",
+    "typeorm": "^0.3.16",
     "typescript": "^4.4.3",
     "win-node-env": "^0.6.1",
     "winston": "^3.3.3"
