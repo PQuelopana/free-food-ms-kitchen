@@ -1,3 +1,3 @@
 # MS Orders
 
-Microservice to manage orders.
+Microservice to manage kitchen data and transactions.
